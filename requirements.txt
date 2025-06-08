@@ -1,0 +1,6 @@
+kafka-python
+geopy
+pandas
+xgboost
+scikit-learn
+streamlit
